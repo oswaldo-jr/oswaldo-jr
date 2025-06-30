@@ -41,6 +41,9 @@
   <h2>🎯 Objetivo </h2>
 <h3>Atualmente focado em aprender e praticar desenvolvimento front-end, com o objetivo de evoluir para o full stack. Este repositório serve como meu portfólio de aprendizado e evolução.</h3>
 </div>
+## 🐍 Snake com minhas contribuições
+
+![snake gif](https://github.com/oswaldo-jr/oswaldo-jr/blob/output/github-contribution-grid-snake.svg)
 
 
 
