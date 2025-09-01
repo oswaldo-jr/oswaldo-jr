@@ -1,4 +1,4 @@
-# 🧛‍♂️ Olá! Eu sou o Oswaldo 👋
+# Olá! Eu sou o Oswaldo 👋
 
 ![Dracula Theme](https://img.shields.io/badge/Theme-Dracula-6272a4?style=for-the-badge&logo=ghost&logoColor=ff79c6)
 ![Status](https://img.shields.io/badge/Status-Aprendendo-ff79c6?style=for-the-badge)
