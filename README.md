@@ -39,7 +39,7 @@
 </div>
 <div>
   <h2>🎯 Objetivo </h2>
-<h3>Atualmente focado em aprender e praticar desenvolvimento front-end, com o objetivo de evoluir para o full stack. Este repositório serve como meu portfólio de aprendizado e evolução.</h3>
+<h3>Atualmente focado em aprender e praticar desenvolvimento front-end, com o objetivo de evoluir para o full stack. Este repositório serve como meu portifólio de aprendizado e evolução.</h3>
 </div>
 
 
